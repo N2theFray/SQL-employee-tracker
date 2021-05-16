@@ -4,7 +4,7 @@
 ## Link to video walkthrough
 https://drive.google.com/file/d/1LjUBMhjq2tq8av48zkIf-t9S2yKg6E9x/preview
 
-##Technologies
+## Technologies
 <br/>MySql
 <br/>Node.Js
 <br/>Inquirer
