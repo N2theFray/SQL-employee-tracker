@@ -1,5 +1,7 @@
-# Mysql employee tracker
+# MySQL employee tracker
 
+## Description
+MySQL-Employee-Tracker is an interface command program that make it easy for non-developers to view and interact with information stored in databases. This interface is a good example of a Content Management Systems; a command line application for managing a company's employees using node, inquirer, and MySQL.
 
 ## Link to video walkthrough
 https://drive.google.com/file/d/1LjUBMhjq2tq8av48zkIf-t9S2yKg6E9x/preview
